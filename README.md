@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![https://t.me/se12al)](https://img.shields.io/badge/Telegram-@se12al-blue.svg?style=flat-square)(https://t.me/se12al)
+[![https://t.me/se12al)](https://img.shields.io/badge/Telegram-@se12al-blue.svg?style=flat-square)](https://t.me/se12al)
 [![https://t.me/se12al](https://img.shields.io/badge/Telegram-@se12al-blue.svg?style=flat-square)](https://t.me/se12al)
 
 </div>
